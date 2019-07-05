@@ -4,6 +4,10 @@
 
 int main(){
   int i,d1,d2;
+  char name[10];
+  printf("What is your name?\n");
+  scanf("%s",name);
+  printf("Hello , %s!\n",name);
   printf("Rolling the dice...\n");
   srand(time(NULL));
   d1=rand() % 6 + 1;
