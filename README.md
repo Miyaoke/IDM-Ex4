@@ -1,0 +1,1 @@
+There are 2 commit saying "Won/lost message added". This is because I accidentally exited my terminal after merging my branches. I didn't know if I succeeded on merging my branch so I tried merging my branches again. Then a message appeared saying to commit your changes. So I committed my change again, writing "won/lost message added". 
