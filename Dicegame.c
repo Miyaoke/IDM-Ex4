@@ -15,10 +15,10 @@ int main(){
   d2=rand() % 6 + 1;
   printf("Die 2: %d\n",d2);
   if(d1+d2>7){
-    printf("You won!\n");
+    printf("%s won!\n",name);
   }
   else{
-    printf("You lost\n");
+    printf("%s lost\n",name);
   }
 
   return 0;
